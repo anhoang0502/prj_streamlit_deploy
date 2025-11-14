@@ -49,7 +49,7 @@ with st.container():
 
 #Sidebar
 st.sidebar.header('Menu')
-st.sidebar.page_link('D:/CS/buoi_8/baitap/dashboard.py',label='Dieu huong') 
+st.sidebar.page_link('D:/CS/buoi_8/baitap/app.py',label='Dieu huong') 
 st.sidebar.page_link('D:/CS/buoi_8/baitap/pages/baocao.py',label='Bao cao') 
 st.sidebar.page_link('D:/CS/buoi_8/baitap/pages/nguoidung.py',label='Nguoi dung') 
 st.sidebar.page_link('D:/CS/buoi_8/baitap/pages/caidat.py',label='Cai dat')
